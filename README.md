@@ -5,7 +5,7 @@
 
 Welcome :wave:
 
-This is the end to end automation suite for DriveTime's public desktop site.
+This is the end to end automation suite for Glen's Palocity QA Challenge!
 The project uses:
 
 [Protractor](https://www.protractortest.org/#/  "Protractor")
@@ -46,4 +46,4 @@ Now that you have the node modules and driver's to run automation, you can now r
 
 **Test**
 
-`npm run qa:test`
+`npm run qa:e2e`
